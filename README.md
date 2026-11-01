@@ -1,5 +1,7 @@
 # Python.py
 
+![stack: Jupyter Notebook](https://img.shields.io/badge/stack-Jupyter%20Notebook-555) ![stack: Python](https://img.shields.io/badge/stack-Python-3776AB)
+
 Learn Material's -- Python
 
 ## Overview
